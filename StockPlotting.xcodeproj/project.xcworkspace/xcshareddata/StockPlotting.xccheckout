@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>507441B6-E4BD-453B-BEE5-515593CDEE22</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StockPlotting</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B4BD5860-E14A-47AB-BAF0-0AED7E505C37</key>
+		<string>https://bitbucket.org/zyangjun/stockplotting.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StockPlotting.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B4BD5860-E14A-47AB-BAF0-0AED7E505C37</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/zyangjun/stockplotting.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B4BD5860-E14A-47AB-BAF0-0AED7E505C37</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B4BD5860-E14A-47AB-BAF0-0AED7E505C37</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StockPlotting</string>
+		</dict>
+	</array>
+</dict>
+</plist>
