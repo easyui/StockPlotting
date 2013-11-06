@@ -129,11 +129,15 @@ CGAffineTransformMakeScaleTranslate(CGFloat sx, CGFloat sy,
 
 - (void)drawAtPoint:(CGPoint)point withStr:(NSString *)str
 {
+    
     if (IOS7_OR_LATER) {
+       #if __IPHONE_OS_VERSION_MAX_ALLOWED > __IPHONE_6_1
         [str drawAtPoint:point withAttributes:@{NSFontAttributeName:[UIFont systemFontOfSize:8], NSStrokeColorAttributeName:GraphColor}];
+       #endif
     } else {
         [str drawAtPoint:point withFont:[UIFont systemFontOfSize:8]];
     }
+     
 }
 
 @end
