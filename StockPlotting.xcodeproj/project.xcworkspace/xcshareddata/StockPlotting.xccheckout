@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>507441B6-E4BD-453B-BEE5-515593CDEE22</string>
+	<string>8E3DD89C-FE57-49DD-8CB7-422618981F9C</string>
 	<key>IDESourceControlProjectName</key>
 	<string>StockPlotting</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B4BD5860-E14A-47AB-BAF0-0AED7E505C37</key>
-		<string>https://bitbucket.org/zyangjun/stockplotting.git</string>
+		<key>65CFB922-0107-4ABA-A441-4CAC0F7F139F</key>
+		<string>https://github.com/easyui/StockPlotting.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>StockPlotting.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B4BD5860-E14A-47AB-BAF0-0AED7E505C37</key>
+		<key>65CFB922-0107-4ABA-A441-4CAC0F7F139F</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/zyangjun/stockplotting.git</string>
+	<string>https://github.com/easyui/StockPlotting.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B4BD5860-E14A-47AB-BAF0-0AED7E505C37</string>
+	<string>65CFB922-0107-4ABA-A441-4CAC0F7F139F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B4BD5860-E14A-47AB-BAF0-0AED7E505C37</string>
+			<string>65CFB922-0107-4ABA-A441-4CAC0F7F139F</string>
 			<key>IDESourceControlWCCName</key>
 			<string>StockPlotting</string>
 		</dict>

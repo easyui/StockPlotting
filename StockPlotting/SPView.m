@@ -2,7 +2,7 @@
 //  SPView.m
 //  StockPlotting
 //
-//  Created by NeuLion SH on 13-11-5.
+//  Created by EZ on 13-11-5.
 //  Copyright (c) 2013年 cactus. All rights reserved.
 //
 #define NLSystemVersionGreaterOrEqualThan(version)  ([[[UIDevice currentDevice] systemVersion] floatValue] >= version)
